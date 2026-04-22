@@ -1,7 +1,7 @@
 # 👋 Naveen Vanapalli – QA Manager & Test Automation Expert
 
 > 📍 Brussels, Belgium &nbsp;|&nbsp; 📧 naveenvanapalli@gmail.com &nbsp;|&nbsp; 📞 +32 492 37 15 18  
-> 🔗 [LinkedIn](https://linkedin.com/in/Naveen-VANAPALLI) &nbsp;|&nbsp; 🌐 [Portfolio Website](https://yourusername.github.io/naveen-portfolio)
+> 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-kanakambaram-vanapalli-5b2042164/) &nbsp;|&nbsp; 🌐 [Portfolio Website](https://naveenvanapalli.github.io/naveen-vanapalli-portfolio/)
 
 ---
 
